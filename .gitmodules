@@ -1,0 +1,9 @@
+[submodule "simulator-data"]
+	path = simulator-data
+	url = ../simulator-data.git
+[submodule "simulations-koma"]
+	path = simulations-koma
+	url = ../simulations-koma.git
+[submodule "simulations-mr0"]
+	path = simulations-mr0
+	url = ../simulations-mr0.git
